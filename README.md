@@ -4,7 +4,12 @@ A Go application that parses custom `.env` archive formats and extracts embedded
 
 ## 🚀 Try it Online
 
+- Go to codespaces link
+- Click on ```Create codespace``` button
+
 **[Open in GitHub Codespaces](https://codespaces.new/echi22/archive-parser)**
+
+
 
 The environment is pre-built with everything ready. Just run:
 ```
