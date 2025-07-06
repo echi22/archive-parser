@@ -2,22 +2,13 @@
 
 A Go application that parses custom `.env` archive formats and extracts embedded files.
 
-## 🚀 Try it Online
+## 🚀 Try it Online (Pre-built Environment)
 
-**[Open in GitHub Codespaces](https://codespaces.new/yourusername/archive-parser)**
+**[Open in GitHub Codespaces](https://codespaces.new/echi22/archive-parser)**
 
-Once the codespace opens:
+The environment is pre-built with everything ready. Just run:
 \`\`\`bash
-# Create test file
-echo '**%%DOCUTEST
-FILENAME/hello.txt
-EXT/.txt
-TYPE/TEXT
-GUID/123
-SHA1/AAF4C61DDCC5E8A2DABEDE0F3B482CD9AEA9434D
-_SIG/D.C.hello world**%%' > test.env
-
-# Run parser
+# Already built and test file created - just run:
 ./archive-parser test.env
 
 # Check output
