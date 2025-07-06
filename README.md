@@ -2,7 +2,7 @@
 
 A Go application that parses custom `.env` archive formats and extracts embedded files.
 
-## 🚀 Try it Online (Pre-built Environment)
+## 🚀 Try it Online
 
 **[Open in GitHub Codespaces](https://codespaces.new/echi22/archive-parser)**
 
